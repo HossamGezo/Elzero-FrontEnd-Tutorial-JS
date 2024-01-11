@@ -6,6 +6,4 @@
 
 ## Website Image
 
-<img src="assets/images/app-image.png" width="100%"/>
-
-// To Watch Preview Hit (cmd + shift + v) After Download Markdown All in One & Markdown All in One - Web --- Extensions On Vs Code
+<img src="assets/images/Elzero-FrontEnd-Tutorial-js.jpg" width="100%"/>
